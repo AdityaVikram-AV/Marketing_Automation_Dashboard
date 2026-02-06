@@ -1,8 +1,10 @@
-# Marketing Prototype Dashboard
+# Marketing Dashboard Prototype
 
 This repository contains the source and documentation for the **Marketing Prototype Dashboard**, a web application prototype designed to present key marketing metrics, analytics visualizations, and performance indicators in a clean and interactive dashboard layout.
 
 Live Preview: https://marketing-protoype-dashboard.lovable.app/
+User Guide: https://marketing-protoype-dashboard.lovable.app/documentation
+Design Guide: https://marketing-protoype-dashboard.lovable.app/design-rationale
 
 ---
 
