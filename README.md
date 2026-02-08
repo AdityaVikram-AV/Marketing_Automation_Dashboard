@@ -6,7 +6,7 @@ This repository contains the source and documentation for the **Marketing Protot
 - User Guide: https://marketing-protoype-dashboard.lovable.app/documentation
 - Design Guide: https://marketing-protoype-dashboard.lovable.app/design-rationale
 
-https://github.com/user-attachments/assets/f9caa6ad-9091-4bf7-abc5-e415855a6ae8
+https://github.com/user-attachments/assets/adb9df82-a9d2-4ce1-9f67-ae3e86df33f7
 
 
 ---
